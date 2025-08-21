@@ -50,6 +50,7 @@ The **Material Classifier** is a Python library that uses machine learning to cl
 
    ```bash
    git clone https://github.com/Jeffa90/material_classifier.git
+   cd material_classifier
    ```
 
 2. Install the required dependencies:
